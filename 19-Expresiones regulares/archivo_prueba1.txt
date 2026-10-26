@@ -1,0 +1,5 @@
+
+Contacto en Paris: +33123456789 (horario laboral)
+Correo personal: usuario.prueba@gmail.com
+Correo corporativo (se ignora): usuario@empresa.fr
+Tlfno español (se ignora): +341234

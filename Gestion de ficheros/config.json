@@ -1,0 +1,14 @@
+{
+    "aplicacion": "Sistema de Control",
+    "version": 1.2,
+    "usuarios_activos": [
+        "Ana",
+        "Íñigo",
+        "María",
+        "Carlos"
+    ],
+    "parametros": {
+        "modo_oscuro": true,
+        "reintentos": 3
+    }
+}
